@@ -1,5 +1,4 @@
-//*
-0 ATIVIDADE IHC - HEURÍSTICAS </h1>
+<h1> ATIVIDADE IHC - HEURÍSTICAS </h1>
 
 <div>
   <h2> Heurísticas de Nielsen: </h2>
